@@ -14,3 +14,4 @@ $antras = "ku $pirmas kū";
 $antras = 'ku' . $pirmas . 'kū';
 
 echo mb_strlen($antras);
+
